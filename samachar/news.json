@@ -1,0 +1,67 @@
+{
+    "status":"ok",
+    "totalResults":1072,
+    "articles":[
+        {"source":{"id":"engadget","name":"Engadget"},
+        "author":"Pranav Dixit",
+        "title":"Don't use smartwatches and rings that claim to measure blood sugar without needles, the FDA warns","description":"The Food and Drug Administration on Wednesday issued a safety communication warning people to stay way from smartwatches and smart rings that claim to measure blood sugar levels without pricking the skin. “The FDA has not authorized, cleared, or approved any …",
+        "url":"https://www.engadget.com/dont-use-smartwatches-and-rings-that-claim-to-measure-blood-sugar-without-needles-the-fda-warns-001745875.html",
+        "urlToImage":"https://s.yimg.com/ny/api/res/1.2/pnLj9GRSq45Wc.wcAflrUQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-02/1a332830-d116-11ee-bbff-f7070d9022e6",
+        "publishedAt":"2024-02-22T00:17:45Z",
+        "content":"The Food and Drug Administration on Wednesday issued a safety communication warning people to stay way from smartwatches and smart rings that claim to measure blood sugar levels without pricking the … [+1654 chars]"
+        },
+        {"source":{"id":"wired","name":"Wired"},
+        "author":"Lauren Goode",
+        "title":"Crying in Apple Vision Pro Is No Laughing Matter",
+        "description":"I watched a steady diet of sad movies in Apple’s headset. It was strangely emotional, but the weight of the headset—and aloneness—distracted from the movies.",
+        "url":"https://www.wired.com/story/crying-in-apple-vision-pro/",
+        "urlToImage":"https://media.wired.com/photos/65d69c38c83aff5f69452044/191:100/w_1280,c_limit/gear_apple_vision_pro_crying.jpg",
+        "publishedAt":"2024-02-22T11:00:00Z",
+        "content":"From the inside, though, the view is incredible. It really is. Im just as surprised by this as you are. The picture is crisp, and the spatial sound is so realistic that more than once I removed the h… [+2633 chars]"
+        },
+        {"source":{"id":null,"name":"Gizmodo.com"},
+        "author":"Kyle Barr",
+        "title":"Apple MacBook Pro M3 Max vs. Razer Blade 16: Battle of the Heavyweight, Ultra-Expensive Laptops",
+        "description":"I’m pitting the best gaming laptop against the best productivity laptop and seeing who comes out on top. It’s a real sumo match of the big boys of the laptop world. No, not in bulk, but the highest-end Razer Blade 16 and MacBook Pros with M3 Max bill themselv…","url":"https://gizmodo.com/macbook-pro-vs-razer-blade-16-faceoff-1851276241",
+        "urlToImage":"https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/5cb7d1181971ef49ad87f9b5208e0b20.jpg",
+        "publishedAt":"2024-02-22T14:25:00Z",
+        "content":"Im pitting the best gaming laptop against the best productivity laptop and seeing who comes out on top. Its a real sumo match of the big boys of the laptop world. No, not in bulk, but the highest-end… [+13227 chars]"
+        },
+        {"source":{"id":null,"name":"Android Central"},
+        "author":"vishnu.skar@gmail.com (Vishnu Sarangapurkar)",
+        "title":"Apple Music on Android wants to make it easier to import your Spotify playlists",
+        "description":"Apple Music and Spotify are always in the competition as both have massive music collections and a user base; new evidence points to the fact that transferring music between these apps could be hassle-free.",
+        "url":"https://www.androidcentral.com/apps-software/apple-music-android-integrates-songshift-feature",
+        "urlToImage":"https://cdn.mos.cms.futurecdn.net/EdH3ZAKYo5zNEs8LxVMKHg-1200-80.jpg",
+        "publishedAt":"2024-02-22T06:17:49Z",
+        "content":"<ul><li>Apple Music 4.7.0 beta (1359) for Android reveals a new SongShift feature.</li><li>As the name implies, it will allow users to transfer music across music streaming apps.</li><li>The feature … [+1993 chars]"
+        },
+        {"source":{"id":null,"name":"Android Central"},
+        "author":"jerry.hildenbrand@futurenet.com (Jerry Hildenbrand)",
+        "title":"Don't install Android 15 right now",
+        "description":"Google offers a test build of the next version of Android, and it's usually buggy and broken. So why do it at all?",
+        "url":"https://www.androidcentral.com/apps-software/dont-install-android-15-dev-preview",
+        "urlToImage":"https://cdn.mos.cms.futurecdn.net/hRtbsHDinAjqyfCvin7BNa-1200-80.jpg",
+        "publishedAt":"2024-02-22T13:00:29Z",
+        "content":"Writing software is hard, especially for something as complex as the operating system on your phone. When you take millions of lines of generic code and try to wrangle it into something designed for … [+6026 chars]"
+        },
+        {"source":{"id":null,"name":"MacRumors"},
+        "author":"Tim Hardwick",
+        "title":"Six Reasons to Wait for Next Year's iPhone 17",
+        "description":"Apple's iPhone development roadmap runs several years into the future and the company is continually working with suppliers on several successive iPhone models concurrently, which is why we sometimes get rumored feature leaks so far ahead of launch. The iPhon…",
+        "url":"https://www.macrumors.com/2024/02/22/iphone-17-five-rumored-features-2025/",
+        "urlToImage":"https://images.macrumors.com/t/v-r2P4S9LIQkwm29DvTDzcGKC14=/2500x/article-new/2023/04/Beyond-iPhone-13-Better-Blue-Face-ID-Single-Camera-Hole.jpg",
+        "publishedAt":"2024-02-22T12:20:00Z",
+        "content":"Apple's iPhone development roadmap runs several years into the future and the company is continually working with suppliers on several successive iPhone models concurrently, which is why we sometimes… [+3788 chars]"
+        },
+        {"source":{"id":null,"name":"ReadWrite"},
+        "author":"James Jones",
+        "title":"Apple to launch PQ3 update for iMessage, bolstering encryption against quantum computing",
+        "description":"Apple has confirmed its plans to launch its newest iMessage security protocol, named PQ3, in response to what it claims […]\nThe post Apple to launch PQ3 update for iMessage, bolstering encryption against quantum computing appeared first on ReadWrite.",
+        "url":"https://readwrite.com/apple-combats-quantum-computer-threat-with-pq3-update-for-imessage/",
+        "urlToImage":"https://readwrite.com/wp-content/uploads/2024/02/mariia-shalabaieva-eQsuFl7jNRA-unsplash-scaled.jpg",
+        "publishedAt":"2024-02-22T01:37:58Z",
+        "content":"Apple has confirmed its plans to launch its newest iMessage security protocol, named PQ3, in response to what it claims is a future threat from quantum computers, according to a recent PCMag report.\r… [+2754 chars]"
+        }
+    ]
+}

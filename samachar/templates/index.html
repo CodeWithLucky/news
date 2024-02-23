@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+    <a href={% url "add_news" %}><button> Add News </button></a>
+    <h2 class="head">News Application</h2>
+    {% for one in  data %}
+    <div class="container">
+        <div class="news-box">
+            <h2 class="news-title">{{one.title}}</h2>
+            <a href={% url "detail" one.id%}><button> Read More </button></a>
+        </div>
+        <!-- Add more news boxes as needed -->
+    </div>
+    {% endfor %}
+</body>
+</html>
+
+
+{% endblock content %}
